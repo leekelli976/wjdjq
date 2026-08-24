@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "Flutter 3.47 与 Dart 3.13：你必须了解的迁移指南",
+    "author": "灯层潿",
+    "time": "2026年08月25日04时12分54秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "清华今年录取4000余名学生",
+  "description": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.otscw.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "【微特稿】高温炙烤韩国 釜山破122年来最高气温纪录",
+    "description": "内容页的详细描述，可包含www.blog.otscw.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "隯裆疯"
+    },
+    "datePublished": "2026年08月25日04时12分54秒",
+    "dateModified": "2026年08月25日04时12分54秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "为博流量恶意拨打110被行拘",
+      "url": "www.blog.otscw.cn/Article/details/581499.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "一年半以前救助的小可爱",
+      "share_url": "www.blog.otscw.cn/Article/details/644854.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收",
+      "share_url": "www.blog.otscw.cn/Article/details/939084.sHtML"
+    },
+{
+      "platform": "为什么同一段代码在 Safari 上永远有 Bug？",
+      "share_url": "www.blog.otscw.cn/Article/details/418997.sHtML"
+    },
+{
+      "platform": "bilibili视频下载器，可下4K、8K、HDR、杜比音频等内容（2026.08.14更新）",
+      "share_url": "www.blog.otscw.cn/Article/details/998335.sHtML"
+    },
+{
+      "platform": "新一轮事业单位改革：三类人可转参公，四类人员统一分流安置",
+      "share_url": "www.blog.otscw.cn/Article/details/442578.sHtML"
+    },
+{
+      "platform": "直击朱雀三号回收降落瞬间",
+      "share_url": "www.blog.otscw.cn/Article/details/456072.sHtML"
+    },
+{
+      "platform": "三亚看海品海鲜，享受阳光与美食",
+      "share_url": "www.blog.otscw.cn/Article/details/863453.sHtML"
+    },
+{
+      "platform": "躲了一下，明天低开，开始加仓！-5566",
+      "share_url": "www.blog.otscw.cn/Article/details/682715.sHtML"
+    },
+{
+      "platform": "胖东来再招聘刑释人员的「刑期五年以上」门槛引质疑，这在法律上是什么程度？如何平衡社会责任与公众担忧？",
+      "share_url": "www.blog.otscw.cn/Article/details/569213.sHtML"
+    },
+    {
+      "platform": "毛宁分享“中国火箭陆地回收”",
+      "share_url": "www.blog.otscw.cn/Article/details/966491.sHtML"
+    },
+{
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "www.blog.otscw.cn/Article/details/852656.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "www.blog.otscw.cn/Article/details/129844.sHtML"
+    },
+{
+      "platform": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+      "share_url": "www.blog.otscw.cn/Article/details/036145.sHtML"
+    },
+{
+      "platform": "龙餐馆演员讲述亲历的伊拉克战争",
+      "share_url": "www.blog.otscw.cn/Article/details/700071.sHtML"
+    },
+{
+      "platform": "阔腿裤+平底鞋：今年秋天最火搭配，松弛又好看！",
+      "share_url": "www.blog.otscw.cn/Article/details/462227.sHtML"
+    },
+{
+      "platform": "公共泳池内男子在儿童区搓脚",
+      "share_url": "www.blog.otscw.cn/Article/details/526771.sHtML"
+    },
+{
+      "platform": "宝石老舅祝你七夕快乐",
+      "share_url": "www.blog.otscw.cn/Article/details/962284.sHtML"
+    },
+{
+      "platform": "6人点88元双人餐被拒 男子发避雷视频",
+      "share_url": "www.blog.otscw.cn/Article/details/064853.sHtML"
+    },
+{
+      "platform": "收费近28年，华快一期将免费，我国首批高快速迎到期免费潮",
+      "share_url": "www.blog.otscw.cn/Article/details/078068.sHtML"
+    },
+    {
+      "platform": "多地官宣今年秋假时间",
+      "share_url": "www.blog.otscw.cn/Article/details/187402.sHtML"
+    },
+{
+      "platform": "现货黄金日内涨幅达3%",
+      "share_url": "www.blog.otscw.cn/Article/details/244235.sHtML"
+    },
+{
+      "platform": "台风沙德尔会抵达江浙沪吗",
+      "share_url": "www.blog.otscw.cn/Article/details/865952.sHtML"
+    },
+{
+      "platform": "宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "share_url": "www.blog.otscw.cn/Article/details/744386.sHtML"
+    },
+{
+      "platform": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+      "share_url": "www.blog.otscw.cn/Article/details/497987.sHtML"
+    },
+{
+      "platform": "李施嬅说朱一龙又一个影帝来了",
+      "share_url": "www.blog.otscw.cn/Article/details/539777.sHtML"
+    },
+{
+      "platform": "统统删除！不再做付费软件的奴隶",
+      "share_url": "www.blog.otscw.cn/Article/details/912570.sHtML"
+    },
+{
+      "platform": "DeepSeek据称重启第二轮融资 投前估值5000亿元",
+      "share_url": "www.blog.otscw.cn/Article/details/818172.sHtML"
+    },
+{
+      "platform": "关于鸿蒙手机的日常体验，网上那些“劝退帖”到底还站不站得住脚？",
+      "share_url": "www.blog.otscw.cn/Article/details/516838.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "www.blog.otscw.cn/Article/details/568150.sHtML"
+    },
+    {
+      "platform": "从《功夫女足》票房失利来看，国内观众最终还是选择抛弃了周星驰，至此所有的香港演员最后的那一点辉煌和遮羞布都没有了。",
+      "share_url": "www.blog.otscw.cn/Article/details/569824.sHtML"
+    },
+{
+      "platform": "穆里尼奥：祝罗德里一切顺利，当然，也不要顺利过头了",
+      "share_url": "www.blog.otscw.cn/Article/details/074444.sHtML"
+    },
+{
+      "platform": "我只想安静地打游戏",
+      "share_url": "www.blog.otscw.cn/Article/details/397758.sHtML"
+    },
+{
+      "platform": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，2030年国内油气供应量目标4.4亿吨油当量",
+      "share_url": "www.blog.otscw.cn/Article/details/622609.sHtML"
+    },
+{
+      "platform": "国防部发布正式通告：马德雷山号再不拖走，就要采取非常手段了！",
+      "share_url": "www.blog.otscw.cn/Article/details/329036.sHtML"
+    },
+{
+      "platform": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
+      "share_url": "www.blog.otscw.cn/Article/details/631224.sHtML"
+    },
+{
+      "platform": "老人举起手机想拍美丽的鱼灯，却遭连环广告疯狂弹窗！",
+      "share_url": "www.blog.otscw.cn/Article/details/199697.sHtML"
+    },
+{
+      "platform": "【柯基】抽象电影《牛来》片尾曲｜《雨后轻风有香》",
+      "share_url": "www.blog.otscw.cn/Article/details/598515.sHtML"
+    },
+{
+      "platform": "1969年、美国演员马修·派瑞出生",
+      "share_url": "www.blog.otscw.cn/Article/details/039453.sHtML"
+    },
+{
+      "platform": "下班了，年轻人赶着去做副业",
+      "share_url": "www.blog.otscw.cn/Article/details/106704.sHtML"
+    },
+    {
+      "platform": "奇耻大辱,我的网站被挂马,服务器已沦陷三个月",
+      "share_url": "www.blog.otscw.cn/Article/details/640265.sHtML"
+    },
+{
+      "platform": "中国气象局：8月西南地区东部等地发生区域性极端高温事件概率较大",
+      "share_url": "www.blog.otscw.cn/Article/details/884432.sHtML"
+    },
+{
+      "platform": "民事诉讼法+民法典查询工具",
+      "share_url": "www.blog.otscw.cn/Article/details/244596.sHtML"
+    },
+{
+      "platform": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
+      "share_url": "www.blog.otscw.cn/Article/details/034730.sHtML"
+    },
+{
+      "platform": "江浙沪作为典型的南方地区，为什么嗜好面食，满大街都是面馆",
+      "share_url": "www.blog.otscw.cn/Article/details/835225.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "www.blog.otscw.cn/Article/details/830703.sHtML"
+    },
+{
+      "platform": "银行“反内卷”，建行一家分行火了：员工午休1.5小时，暂停全部人工柜面服务！业内人士：过去几十年大家不午休，是因为谁都不敢第一个休",
+      "share_url": "www.blog.otscw.cn/Article/details/497013.sHtML"
+    },
+{
+      "platform": "邀请网红参加奢华品牌活动，OpenAI营销引争议",
+      "share_url": "www.blog.otscw.cn/Article/details/238600.sHtML"
+    },
+{
+      "platform": "中方回应马来西亚总理涉台表态",
+      "share_url": "www.blog.otscw.cn/Article/details/180979.sHtML"
+    },
+{
+      "platform": "江苏泰州音乐家协会：撤销现有全部顾问等名誉职务",
+      "share_url": "www.blog.otscw.cn/Article/details/314155.sHtML"
+    },
+    {
+      "platform": "国产动画电影《牛来》豆瓣开分 5.9：票房已破 2700 万，制作过于粗糙引发观看热潮",
+      "share_url": "www.blog.otscw.cn/Article/details/620721.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "www.blog.otscw.cn/Article/details/116706.sHtML"
+    },
+{
+      "platform": "女排时隔11年冲击亚洲冠军",
+      "share_url": "www.blog.otscw.cn/Article/details/719404.sHtML"
+    },
+{
+      "platform": "中国可回收火箭还有哪些问题待解决",
+      "share_url": "www.blog.otscw.cn/Article/details/129702.sHtML"
+    },
+{
+      "platform": "如何评价《一人之下》第773(827）话预告？",
+      "share_url": "www.blog.otscw.cn/Article/details/104495.sHtML"
+    },
+{
+      "platform": "预售价25.98万元，黄金大五座科技旗舰小鹏G9L重磅亮相",
+      "share_url": "www.blog.otscw.cn/Article/details/552830.sHtML"
+    },
+{
+      "platform": "伦敦一回收中心发生大火",
+      "share_url": "www.blog.otscw.cn/Article/details/798441.sHtML"
+    },
+{
+      "platform": "孩童坐车道玩耍遭转弯车撞击",
+      "share_url": "www.blog.otscw.cn/Article/details/137297.sHtML"
+    },
+{
+      "platform": "高级前端开发职业规划（2026—2035）",
+      "share_url": "www.blog.otscw.cn/Article/details/180663.sHtML"
+    },
+{
+      "platform": "男子花9元喜中1728万大奖",
+      "share_url": "www.blog.otscw.cn/Article/details/457334.sHtML"
+    },
+    {
+      "platform": "西安通报赛格商场与坠楼者纠纷情况",
+      "share_url": "www.blog.otscw.cn/Article/details/518497.sHtML"
+    },
+{
+      "platform": "人民日报：腐败案“两个80%”的警示",
+      "share_url": "www.blog.otscw.cn/Article/details/970868.sHtML"
+    },
+{
+      "platform": "为库里冲冠继续补强！美媒支招勇士签3人：押宝西蒙斯+抄底托马斯",
+      "share_url": "www.blog.otscw.cn/Article/details/599653.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "www.blog.otscw.cn/Article/details/465932.sHtML"
+    },
+{
+      "platform": "今年上市的新车销量哪家强",
+      "share_url": "www.blog.otscw.cn/Article/details/792149.sHtML"
+    },
+{
+      "platform": "实证研究：AI杀猪盘比人类更强，已上岗缅甸",
+      "share_url": "www.blog.otscw.cn/Article/details/596492.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "www.blog.otscw.cn/Article/details/632208.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "www.blog.otscw.cn/Article/details/141677.sHtML"
+    },
+{
+      "platform": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
+      "share_url": "www.blog.otscw.cn/Article/details/992221.sHtML"
+    },
+{
+      "platform": "央行新增平安、恒丰、渤海等8家数字人民币业务运营机构，总数扩至30家",
+      "share_url": "www.blog.otscw.cn/Article/details/969272.sHtML"
+    },
+    {
+      "platform": "丁程鑫曾长期营养不良",
+      "share_url": "www.blog.otscw.cn/Article/details/168506.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "www.blog.otscw.cn/Article/details/502788.sHtML"
+    },
+{
+      "platform": "成都在做，幸福在右，人间烟火，理想生活 | 2020成都最新版游记",
+      "share_url": "www.blog.otscw.cn/Article/details/545292.sHtML"
+    },
+{
+      "platform": "国家统计局公布最新数据",
+      "share_url": "www.blog.otscw.cn/Article/details/952949.sHtML"
+    },
+{
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "www.blog.otscw.cn/Article/details/037947.sHtML"
+    },
+{
+      "platform": "我有我的七夕仪式感",
+      "share_url": "www.blog.otscw.cn/Article/details/564906.sHtML"
+    },
+{
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "www.blog.otscw.cn/Article/details/382925.sHtML"
+    },
+{
+      "platform": "《庆余年》演员在山西一景区当NPC，身高2.16米，“我需要稳定收入养家，如今AI短剧普及，很多演员长期无戏可拍……”",
+      "share_url": "www.blog.otscw.cn/Article/details/471336.sHtML"
+    },
+{
+      "platform": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
+      "share_url": "www.blog.otscw.cn/Article/details/193416.sHtML"
+    },
+{
+      "platform": "武汉世界第一争夺战：赵心童手握2350积分优势，丁俊晖或送助攻！",
+      "share_url": "www.blog.otscw.cn/Article/details/326889.sHtML"
+    },
+    {
+      "platform": "95后新郎把婚前房子财产全给了新娘",
+      "share_url": "www.blog.otscw.cn/Article/details/609259.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "www.blog.otscw.cn/Article/details/723098.sHtML"
+    },
+{
+      "platform": "三个维度解读前7月经济成绩单",
+      "share_url": "www.blog.otscw.cn/Article/details/627045.sHtML"
+    },
+{
+      "platform": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
+      "share_url": "www.blog.otscw.cn/Article/details/853010.sHtML"
+    },
+{
+      "platform": "蛋仔沈昭礼温组合技转场",
+      "share_url": "www.blog.otscw.cn/Article/details/943059.sHtML"
+    },
+{
+      "platform": "像一阵细雨洒落我心底",
+      "share_url": "www.blog.otscw.cn/Article/details/306039.sHtML"
+    },
+{
+      "platform": "朱一龙：大家可以叫我强哥",
+      "share_url": "www.blog.otscw.cn/Article/details/316280.sHtML"
+    },
+{
+      "platform": "超5000只个股下跌 明天如何应对",
+      "share_url": "www.blog.otscw.cn/Article/details/956789.sHtML"
+    },
+{
+      "platform": "中国金花遇乌龙事件",
+      "share_url": "www.blog.otscw.cn/Article/details/958072.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "www.blog.otscw.cn/Article/details/782647.sHtML"
+    },
+    {
+      "platform": "外交部：重申“敌国条款”含义，对严防军国主义幽灵死灰复燃具有重要意义",
+      "share_url": "www.blog.otscw.cn/Article/details/104520.sHtML"
+    },
+{
+      "platform": "烽火职业联赛夏季赛",
+      "share_url": "www.blog.otscw.cn/Article/details/805561.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "www.blog.otscw.cn/Article/details/312243.sHtML"
+    },
+{
+      "platform": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "share_url": "www.blog.otscw.cn/Article/details/087318.sHtML"
+    },
+{
+      "platform": "前7月内地访日游客同比降56.3%",
+      "share_url": "www.blog.otscw.cn/Article/details/359382.sHtML"
+    },
+{
+      "platform": "火影手游晓三飞段全技能爆料",
+      "share_url": "www.blog.otscw.cn/Article/details/619237.sHtML"
+    },
+{
+      "platform": "辣椒炒肉名场面来了",
+      "share_url": "www.blog.otscw.cn/Article/details/319906.sHtML"
+    },
+{
+      "platform": "曼联即将签下巴莱巴",
+      "share_url": "www.blog.otscw.cn/Article/details/614496.sHtML"
+    },
+{
+      "platform": "2026德国教材：很多中国人没有汽车，出行靠自行车或步行，街头遍布自行车十分危险；中国人见面不握手，仅以鞠躬致意。",
+      "share_url": "www.blog.otscw.cn/Article/details/004416.sHtML"
+    },
+{
+      "platform": "去年还在打麻将的机器人，今年想上班了？",
+      "share_url": "www.blog.otscw.cn/Article/details/680694.sHtML"
+    },
+    {
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "www.blog.otscw.cn/Article/details/010870.sHtML"
+    },
+{
+      "platform": "女子举报985高校博士后在妻子孕期出轨，隐瞒已婚事实与自己交往，起诉男方侵犯人格权，男方至今未道歉，已入职新高校",
+      "share_url": "www.blog.otscw.cn/Article/details/900369.sHtML"
+    },
+{
+      "platform": "班主任出嫁学生组电动车队一路护送",
+      "share_url": "www.blog.otscw.cn/Article/details/718722.sHtML"
+    },
+{
+      "platform": "“全部删除！”妈妈翻看女儿电话手表后爆发大吵：聊天群有10多个，通讯录一半是陌生人；女儿哭了好几天：我不被尊重",
+      "share_url": "www.blog.otscw.cn/Article/details/541263.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "www.blog.otscw.cn/Article/details/425847.sHtML"
+    },
+{
+      "platform": "桃黑黑宣布暂时休息",
+      "share_url": "www.blog.otscw.cn/Article/details/129251.sHtML"
+    },
+{
+      "platform": "韩国股市为何大起大落",
+      "share_url": "www.blog.otscw.cn/Article/details/210079.sHtML"
+    },
+{
+      "platform": "“除非家里死人，不要跟我临时请假”广东一医生工作群言论引热议，医院：正在核实，后续情况以官方发布为准；广东省卫健委：医院在调查",
+      "share_url": "www.blog.otscw.cn/Article/details/133479.sHtML"
+    },
+{
+      "platform": "价格屠夫梁文锋收刀",
+      "share_url": "www.blog.otscw.cn/Article/details/888243.sHtML"
+    },
+{
+      "platform": "央视曝光：情侣网购上千个订单，收货地址为全国各地酒店前台",
+      "share_url": "www.blog.otscw.cn/Article/details/805373.sHtML"
+    },
+    {
+      "platform": "永鼎股份 2026 年半年度归母净利润 5.03 亿元，同比增长 58.06%",
+      "share_url": "www.blog.otscw.cn/Article/details/261558.sHtML"
+    },
+{
+      "platform": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "share_url": "www.blog.otscw.cn/Article/details/839862.sHtML"
+    },
+{
+      "platform": "夯爆了！！ 有这么好吃的猕猴桃，你怎么不早点告诉我！！！",
+      "share_url": "www.blog.otscw.cn/Article/details/161980.sHtML"
+    },
+{
+      "platform": "空枪 李嘉诚儿子绑架案",
+      "share_url": "www.blog.otscw.cn/Article/details/705838.sHtML"
+    },
+{
+      "platform": "代码越改越乱？来试试前端领域模型驱动设计（DDD）",
+      "share_url": "www.blog.otscw.cn/Article/details/268969.sHtML"
+    },
+{
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "www.blog.otscw.cn/Article/details/067192.sHtML"
+    },
+{
+      "platform": "沈文裕默默翻评论满足粉丝点歌",
+      "share_url": "www.blog.otscw.cn/Article/details/692743.sHtML"
+    },
+{
+      "platform": "天山打洞只因那头有人民",
+      "share_url": "www.blog.otscw.cn/Article/details/116968.sHtML"
+    },
+{
+      "platform": "杭州梭子蟹价格持续回落",
+      "share_url": "www.blog.otscw.cn/Article/details/511363.sHtML"
+    },
+{
+      "platform": "存储“三国杀”变局：三星扩大领先 美光追近海力士",
+      "share_url": "www.blog.otscw.cn/Article/details/117985.sHtML"
+    },
+    {
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "www.blog.otscw.cn/Article/details/206473.sHtML"
+    },
+{
+      "platform": "三星Galaxy Z8系列深圳上手：AI功能如何改变折叠屏的使用方式",
+      "share_url": "www.blog.otscw.cn/Article/details/089255.sHtML"
+    },
+{
+      "platform": "跟着合唱派对七夕浪漫开唱",
+      "share_url": "www.blog.otscw.cn/Article/details/712483.sHtML"
+    },
+{
+      "platform": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "share_url": "www.blog.otscw.cn/Article/details/653176.sHtML"
+    },
+{
+      "platform": "美军太平洋基地设施衰败状态堪忧",
+      "share_url": "www.blog.otscw.cn/Article/details/851362.sHtML"
+    },
+{
+      "platform": "结婚8年发现三娃均非亲生 男方已将孩子全部送还女方",
+      "share_url": "www.blog.otscw.cn/Article/details/486741.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness v0.1 四天 14 万星，对照 Claude Code 和 Codex 讲清三种 harness 设计原则",
+      "share_url": "www.blog.otscw.cn/Article/details/316784.sHtML"
+    },
+{
+      "platform": "这女孩可怜啊，一辈子毁了……",
+      "share_url": "www.blog.otscw.cn/Article/details/134873.sHtML"
+    },
+{
+      "platform": "买票占座放零食这座位能让吗",
+      "share_url": "www.blog.otscw.cn/Article/details/848885.sHtML"
+    },
+{
+      "platform": "儿科医生离世患儿家属送别",
+      "share_url": "www.blog.otscw.cn/Article/details/584454.sHtML"
+    },
+    {
+      "platform": "超强厄尔尼诺将带来什么影响",
+      "share_url": "www.blog.otscw.cn/Article/details/702609.sHtML"
+    },
+{
+      "platform": "外交部：中国公民谨慎赴帕劳旅游",
+      "share_url": "www.blog.otscw.cn/Article/details/503747.sHtML"
+    },
+{
+      "platform": "多地悄然布局县城大学圈",
+      "share_url": "www.blog.otscw.cn/Article/details/364358.sHtML"
+    },
+{
+      "platform": "上海书展 | 当71岁的莫言蹲下和轮椅上的读者合影，文学的美好发生在每一个具体的人身上",
+      "share_url": "www.blog.otscw.cn/Article/details/379896.sHtML"
+    },
+{
+      "platform": "香港打击非法卖淫9名内地女子被捕",
+      "share_url": "www.blog.otscw.cn/Article/details/044227.sHtML"
+    },
+{
+      "platform": "西部矿业2026年半年度营收394.43亿元，同比增长25%",
+      "share_url": "www.blog.otscw.cn/Article/details/492761.sHtML"
+    },
+{
+      "platform": "知识回顾：Vue 生命周期十道面试题，钩子函数必问",
+      "share_url": "www.blog.otscw.cn/Article/details/512763.sHtML"
+    },
+{
+      "platform": "赵勇能把中国女排带多远（三）",
+      "share_url": "www.blog.otscw.cn/Article/details/986394.sHtML"
+    },
+{
+      "platform": "当代版“洛阳纸贵”！广西日报王虹特稿《王的猜想》火了，一份报纸炒到65元",
+      "share_url": "www.blog.otscw.cn/Article/details/800690.sHtML"
+    },
+{
+      "platform": "日本瞄准无人作战会有哪些变化",
+      "share_url": "www.blog.otscw.cn/Article/details/473756.sHtML"
+    },
+    {
+      "platform": "女生墨尔本街头翻唱遇袁娅维加入",
+      "share_url": "www.blog.otscw.cn/Article/details/269071.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness确实炸了，但我已经不care了——说说为什么",
+      "share_url": "www.blog.otscw.cn/Article/details/386697.sHtML"
+    },
+{
+      "platform": "为何一封信硬控了所有00后",
+      "share_url": "www.blog.otscw.cn/Article/details/359558.sHtML"
+    },
+{
+      "platform": "情侣打官司争宠物狗",
+      "share_url": "www.blog.otscw.cn/Article/details/213637.sHtML"
+    },
+{
+      "platform": "有人让农民工也要交税",
+      "share_url": "www.blog.otscw.cn/Article/details/747336.sHtML"
+    },
+{
+      "platform": "性和裸露本应发生在私密空间，影视剧里的床戏恰恰相反",
+      "share_url": "www.blog.otscw.cn/Article/details/691724.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴快手号找到了",
+      "share_url": "www.blog.otscw.cn/Article/details/066766.sHtML"
+    },
+{
+      "platform": "跨平台开发地图 | 2026年8月",
+      "share_url": "www.blog.otscw.cn/Article/details/024541.sHtML"
+    },
+{
+      "platform": "旺旺官宣“听劝版”新品将上线",
+      "share_url": "www.blog.otscw.cn/Article/details/899235.sHtML"
+    },
+{
+      "platform": "美国居民携燃烧弹闯国会",
+      "share_url": "www.blog.otscw.cn/Article/details/408446.sHtML"
+    },
+    {
+      "platform": "奕境X9预售12小时订单突破16000台",
+      "share_url": "www.blog.otscw.cn/Article/details/785490.sHtML"
+    },
+{
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "www.blog.otscw.cn/Article/details/298903.sHtML"
+    },
+{
+      "platform": "降至2.7%！银行房贷利率再现低位",
+      "share_url": "www.blog.otscw.cn/Article/details/427491.sHtML"
+    },
+{
+      "platform": "胖东来澄清“无门槛招聘刑满释放人员”：排除性侵等恶性犯罪前科人员",
+      "share_url": "www.blog.otscw.cn/Article/details/944255.sHtML"
+    },
+{
+      "platform": "老人别把“没力气”当正常衰老",
+      "share_url": "www.blog.otscw.cn/Article/details/019382.sHtML"
+    },
+{
+      "platform": "面试官说"打开你的AI工具"——我才发现，他考的根本不是写代码",
+      "share_url": "www.blog.otscw.cn/Article/details/189152.sHtML"
+    },
+{
+      "platform": "美股三大指数集体高开 Moderna涨超83%",
+      "share_url": "www.blog.otscw.cn/Article/details/636521.sHtML"
+    },
+{
+      "platform": "离开东方甄选269天后，孙东旭杀回来了",
+      "share_url": "www.blog.otscw.cn/Article/details/244743.sHtML"
+    },
+{
+      "platform": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "share_url": "www.blog.otscw.cn/Article/details/327909.sHtML"
+    },
+{
+      "platform": "科学家颜宁自评：我勉强算人才，王虹才是天才",
+      "share_url": "www.blog.otscw.cn/Article/details/952659.sHtML"
+    },
+    {
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "www.blog.otscw.cn/Article/details/382252.sHtML"
+    },
+{
+      "platform": "广州一人行道树池泥土表面被水泥封死引热议 街道回应",
+      "share_url": "www.blog.otscw.cn/Article/details/899515.sHtML"
+    },
+{
+      "platform": "【绝望女神/一千关注A站独家MMD翻唱】【偶像】",
+      "share_url": "www.blog.otscw.cn/Article/details/946832.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "www.blog.otscw.cn/Article/details/571768.sHtML"
+    },
+{
+      "platform": "崴了脚拄上拐杖之后感受到了全世界都在向我释放出善意",
+      "share_url": "www.blog.otscw.cn/Article/details/911780.sHtML"
+    },
+{
+      "platform": "开个新坑，从头开始完整拆解 Spring AI 2.0 的源码",
+      "share_url": "www.blog.otscw.cn/Article/details/134017.sHtML"
+    },
+{
+      "platform": "【机器学习】损失函数全解_从MSE到交叉熵",
+      "share_url": "www.blog.otscw.cn/Article/details/373213.sHtML"
+    },
+{
+      "platform": "怀救苦之心、做苍生大医",
+      "share_url": "www.blog.otscw.cn/Article/details/368054.sHtML"
+    },
+{
+      "platform": "公安部门悬赏100万元寻找石狮",
+      "share_url": "www.blog.otscw.cn/Article/details/383598.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "www.blog.otscw.cn/Article/details/926106.sHtML"
+    },
+    {
+      "platform": "“男孩女孩我都喜欢”，但事实上，新生男孩越来越多",
+      "share_url": "www.blog.otscw.cn/Article/details/529830.sHtML"
+    },
+{
+      "platform": "华东首个，京东物流长三角至京津冀电商多式联运快速班列成功开行",
+      "share_url": "www.blog.otscw.cn/Article/details/378673.sHtML"
+    },
+{
+      "platform": "全网寻找“李春”：我们的淘宝地址，为何被一个神秘人“接管”了？",
+      "share_url": "www.blog.otscw.cn/Article/details/563109.sHtML"
+    },
+{
+      "platform": "光迅科技 2026 年半年度归母净利润 5.82 亿元，同比增长 56.34%",
+      "share_url": "www.blog.otscw.cn/Article/details/942299.sHtML"
+    },
+{
+      "platform": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
+      "share_url": "www.blog.otscw.cn/Article/details/338438.sHtML"
+    },
+{
+      "platform": "中微公司 2026 年半年度归母净利润 28.25 亿元，同比增长 300.22%",
+      "share_url": "www.blog.otscw.cn/Article/details/911813.sHtML"
+    },
+{
+      "platform": "赛马过时了，Wan 3.0还是越早和HappyHorse合并越好",
+      "share_url": "www.blog.otscw.cn/Article/details/856459.sHtML"
+    },
+{
+      "platform": "破局智驾高门槛，10万级大六座星海V6搭载华为乾崑智驾ADS 5 SE载誉下线",
+      "share_url": "www.blog.otscw.cn/Article/details/277071.sHtML"
+    },
+{
+      "platform": "这场文艺汇演如同百花齐放",
+      "share_url": "www.blog.otscw.cn/Article/details/215321.sHtML"
+    },
+{
+      "platform": "韩媒：张本智和兄妹在中国遭受网暴 称国乒已经感到两人的威胁",
+      "share_url": "www.blog.otscw.cn/Article/details/542986.sHtML"
+    },
+    {
+      "platform": "“AI剧像喂猪一样 实在吃不下了”",
+      "share_url": "www.blog.otscw.cn/Article/details/904263.sHtML"
+    },
+{
+      "platform": "15分钟一局的王者荣耀，成了数学博士生的避难所",
+      "share_url": "www.blog.otscw.cn/Article/details/667932.sHtML"
+    },
+{
+      "platform": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
+      "share_url": "www.blog.otscw.cn/Article/details/351881.sHtML"
+    },
+{
+      "platform": "400 余款 App、SDK 被处置处罚，网信办严打涉信息泄露等违法犯罪行为",
+      "share_url": "www.blog.otscw.cn/Article/details/265344.sHtML"
+    },
+{
+      "platform": "为什么七夕朋友圈秀恩爱的变少了",
+      "share_url": "www.blog.otscw.cn/Article/details/651210.sHtML"
+    },
+{
+      "platform": "小说下载器 - 你的网文自由神器！",
+      "share_url": "www.blog.otscw.cn/Article/details/653207.sHtML"
+    },
+{
+      "platform": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+      "share_url": "www.blog.otscw.cn/Article/details/618727.sHtML"
+    },
+{
+      "platform": "裁判评议：云南vs英博比赛中，英博三例申诉均被驳回，裁判判罚正确",
+      "share_url": "www.blog.otscw.cn/Article/details/944465.sHtML"
+    },
+{
+      "platform": "最强助眠运动！游泳、撸铁都不如它",
+      "share_url": "www.blog.otscw.cn/Article/details/928154.sHtML"
+    },
+{
+      "platform": "两尊唐代石狮被人夜间盗走十余年 公安部门悬赏100万",
+      "share_url": "www.blog.otscw.cn/Article/details/247347.sHtML"
+    },
+    {
+      "platform": "著名导演怒喷观众：你们都敢去看《牛来》，为什么不敢来看我的电影？我要排片，我要排片！",
+      "share_url": "www.blog.otscw.cn/Article/details/664089.sHtML"
+    },
+{
+      "platform": "工厂模式与 Nest.js 核心思想 —— 从蜜雪冰城到企业级架构",
+      "share_url": "www.blog.otscw.cn/Article/details/917475.sHtML"
+    },
+{
+      "platform": "日本民众排队5小时买中国相机",
+      "share_url": "www.blog.otscw.cn/Article/details/871471.sHtML"
+    },
+{
+      "platform": "ACM MM'26 | 浙大开源PhyEdit：单图编辑+精准3D物体操作",
+      "share_url": "www.blog.otscw.cn/Article/details/383831.sHtML"
+    },
+{
+      "platform": "净利最高暴增 977%，老牌教培释放回暖信号",
+      "share_url": "www.blog.otscw.cn/Article/details/213874.sHtML"
+    },
+{
+      "platform": "是时候跟上蔡徐坤的old school了",
+      "share_url": "www.blog.otscw.cn/Article/details/893945.sHtML"
+    },
+{
+      "platform": "上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？",
+      "share_url": "www.blog.otscw.cn/Article/details/628825.sHtML"
+    },
+{
+      "platform": "贵州一村庄升学宴“瘦身”",
+      "share_url": "www.blog.otscw.cn/Article/details/275880.sHtML"
+    },
+{
+      "platform": "我的前半生9年后为何又爆火",
+      "share_url": "www.blog.otscw.cn/Article/details/334991.sHtML"
+    },
+{
+      "platform": "总经理接私活赚千万被发现后捐公司",
+      "share_url": "www.blog.otscw.cn/Article/details/012757.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/nguyenrichard997/yjjpedge/blob/main/20260824azeSy.json</br>https://github.com/salazaramanda44/ovwflzxk/blob/main/20260824Y9YZC.json</br>https://github.com/beckgloria1036/mcsxtbp/blob/main/20260824GZrlW.json</br>https://github.com/carterpaula7435/fkrlxrsu/blob/main/20260824sTcLh.json</br>https://github.com/boltonkayla7/vdikqgeb/blob/main/20260824oZh63.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/parsonsdonna5266/hnnxmg/blob/main/20260824PWEnF.json</br>https://github.com/morganbruce57/idomaxzy/blob/main/202608254V6IF.json</br>https://github.com/davislisa3/wiqrdj/blob/main/202608245ExAb.json</br>https://github.com/russellheather86/jnpmokpv/blob/main/20260825jY4z8.json</br>https://github.com/millercassandra6929/dmgdaus/blob/main/20260824MebJi.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月25日04时12分54秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
